@@ -1,6 +1,10 @@
 # pyVRL
 
 Exposes Vector VRL to Python for fast, simple & unified transforms
+## Installation
+
+`pip install pyVRL`
+
 
 ## Use
 
